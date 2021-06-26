@@ -1,0 +1,44 @@
+{
+  "id": "2512894",
+  "name": "handoublog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "648785",
+      "name": "位置",
+      "font_class": "location",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "5344808",
+      "name": "点赞",
+      "font_class": "star",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8289016",
+      "name": "时间",
+      "font_class": "date",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "8562223",
+      "name": "icon_评论",
+      "font_class": "comment",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9855911",
+      "name": "收藏",
+      "font_class": "collect",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
